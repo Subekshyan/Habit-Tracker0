@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic subekshyaneupane12@gmail.com 
+psycopg2-binary
