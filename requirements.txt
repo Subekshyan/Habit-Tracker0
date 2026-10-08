@@ -1,5 +1,7 @@
+cat > requirements.txt << 'EOF'
 fastapi
 uvicorn[standard]
 sqlalchemy
-pydantic subekshyaneupane12@gmail.com 
+pydantic[email]
 psycopg2-binary
+EOF

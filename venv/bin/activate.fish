@@ -29,7 +29,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/subekshyaneupane/Desktop/Habits/venv"
+set -gx VIRTUAL_ENV "/Users/subekshyaneupane/Desktop/game/Habit-Tracker0/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
